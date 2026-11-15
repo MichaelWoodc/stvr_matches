@@ -1,0 +1,19 @@
+{
+  "updated_unix": 1794718745.5910227,
+  "allowed_sources": [
+    {
+      "provider": "realtor",
+      "path": "/mnt/truenas-storage/realtor_scraper_output/photos"
+    },
+    {
+      "provider": "airbnb",
+      "path": "/mnt/toshiba/Savannah"
+    }
+  ],
+  "excluded_records": 3,
+  "excluded_paths": [
+    "/mnt/toshiba/airbnb_batch/47_sumner/coverage_before_pagination_fix_20261001T023829Z/progress.png",
+    "/mnt/toshiba/airbnb_batch/47_wilson/coverage_before_pagination_fix_20261001T023829Z/progress.png",
+    "/mnt/toshiba/airbnb_batch/47_blount/coverage_before_pagination_fix_20261001T023829Z/progress.png"
+  ]
+}

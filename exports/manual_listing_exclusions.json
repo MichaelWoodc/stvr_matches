@@ -1,0 +1,9 @@
+[
+  {
+    "provider": "realtor",
+    "listing": "PORT WENTWORTH/CHERRY ST/20 CHERRY ST_PORT WENTWORTH_31407",
+    "input_url": "https://www.realtor.com/realestateandhomes-detail/20-Cherry-St_Port-Wentworth_GA_31407_M59174-90781",
+    "reason": "User requested exclusion of 20 Cherry St",
+    "removed_unix": 1794720553.6844437
+  }
+]

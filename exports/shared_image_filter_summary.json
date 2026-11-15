@@ -1,0 +1,18 @@
+{
+  "airbnb": {
+    "photos_examined": 121634,
+    "groups": 0,
+    "excluded_photos": 0
+  },
+  "realtor": {
+    "photos_examined": 276059,
+    "groups": 6296,
+    "excluded_photos": 25739
+  },
+  "excluded_candidate_pairs": 158411,
+  "excluded_supported_pairs": 678,
+  "remaining_supported_pairs": 845,
+  "updated_unix": 1794718716.723055,
+  "policy": "Exclude Realtor cross-listing three-hash duplicate groups from active matching, rankings and exports; Airbnb shared photos remain eligible and annotated; audit rows retained",
+  "limitation": "Exact three-hash equality; edited copies with differing hashes may be missed"
+}
